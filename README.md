@@ -3,7 +3,7 @@
 **About me**
 
 - 💼 Fullstack Developer, 15+ years expirence in Coding(Frontend & Backend), AutoTesting, QA, Devops and Agile Developemnt.
-- ❤️ Trying to be a remote web3 developer in Blckchain
+- ❤️ Trying to be a remote web3 developer in Blockchain
 - 🌱 Stay Hungry, Stay Foolish.
 
 
